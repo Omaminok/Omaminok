@@ -56,5 +56,4 @@ Machine learning model for household power usage prediction.
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
 - Email: omamin2536@gmail.com
